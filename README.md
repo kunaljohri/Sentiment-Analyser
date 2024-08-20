@@ -15,5 +15,4 @@ Ensure you have Python installed. You can download it from python.org.
 4.Open a terminal and navigate to the sentiment-analysis-app directory.Flask will start a development server, usually accessible at http://127.0.0.1:5000/.
 
 5.Open Your Web Browser:
-
         ->Go to http://127.0.0.1:5000/ to see the sentiment analysis web app.        
