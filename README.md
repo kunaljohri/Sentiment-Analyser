@@ -16,7 +16,7 @@ Ensure you have Python installed. You can download it from python.org.
         ->cd sentiment-analysis-app(to navigate to it)
         
 3.Inside the sentiment-analysis-app directory:
-        ->download Twitter_Data.csv ,model.pkl,vectorizer.pkl
+        ->download Twitter_Data.csv ,model.pkl,vectorizer.pkl,sentiment_analyser.py
         ->make a 'templates' folder and download index.html inside it
         
 4.Open a terminal and navigate to the sentiment-analysis-app directory.Flask will start a development server, usually accessible at http://127.0.0.1:5000/.
