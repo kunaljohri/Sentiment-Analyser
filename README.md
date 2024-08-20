@@ -1,9 +1,10 @@
 # Sentiment-Analyser
 
-#summary
+Summary
 
 The project involves developing a web application using Flask for sentiment analysis, employing a logistic regression model trained on a sample dataset to classify sentiments as positive, neutral, or negative. Users can interact with the application by entering text directly into a form for sentiment analysis. The application features a user-friendly interface that processes and displays sentiment predictions based on the input text.
 
+How to use
 
 Ensure you have Python installed. You can download it from python.org.
 
